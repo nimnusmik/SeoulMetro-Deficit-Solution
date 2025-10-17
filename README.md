@@ -211,7 +211,7 @@
 
 ## 기술 스택
 
-**언어**: Python 3.x
+**언어**: Python
 
 **데이터 처리**
 - Pandas: 데이터 조작 및 분석
@@ -219,12 +219,11 @@
 
 **머신러닝**
 - Scikit-learn: K-means Clustering, 다중선형회귀
-- XGBoost: 변수 중요도 분석
+- RandomForest: 변수 중요도 분석
 
 **시각화**
 - Matplotlib
 - Seaborn
-- QGIS: 지도 시각화
 
 ---
 
